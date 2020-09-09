@@ -1,0 +1,1 @@
+this is a c program that reads id,name,gpa and calculates the grade of students and prints the max,min&average scores
